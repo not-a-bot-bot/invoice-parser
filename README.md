@@ -11,7 +11,7 @@ AI-powered tool to extract structured data from invoice PDFs. Built with Python,
 
 ## Live Demo
 
-🔗 [Try it here](YOUR_STREAMLIT_URL) *(link added after deployment)*
+🔗 [Try it here](https://invoice-parser-dfqxjkmblszmbz9gye8evv.streamlit.app/)
 
 ## Run Locally
 
@@ -22,7 +22,7 @@ AI-powered tool to extract structured data from invoice PDFs. Built with Python,
 ### Setup
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/invoice-parser.git
+git clone https://github.com/not-a-bot-bot/invoice-parser
 cd invoice-parser
 
 # Create virtual environment
@@ -58,7 +58,7 @@ invoice-parser/
 
 ## Author
 
-Built by [Your Name] during the Shipping Sprint 🚀
+Built by Rahul during the Shipping Sprint 🚀
 
 ## License
 
