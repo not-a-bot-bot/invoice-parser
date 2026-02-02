@@ -22,7 +22,7 @@ AI-powered tool to extract structured data from invoice PDFs. Built with Python,
 ### Setup
 ```bash
 # Clone the repo
-git clone https://github.com/not-a-bot-bot/invoice-parser
+git clone https://github.com/not-a-bot-bot/invoice-parser.git
 cd invoice-parser
 
 # Create virtual environment
